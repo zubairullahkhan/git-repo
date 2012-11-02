@@ -1,0 +1,8 @@
+Git Release Notes (Git-1.8.0-preview20121022)
+Last update: 22 October 2012
+
+Introduction
+
+These release notes describe issues specific to the Git for Windows release.
+
+General release notes covering the history of the core git commands are included in the subdirectory doc/git/html of the installation directory. Look for files starting with RelNotes
